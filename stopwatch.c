@@ -1,7 +1,7 @@
 /* stopwatch.c, a GUI stopwatch in C 
 
 To compile, run: 
-apk add gtk+3.0-dev gcc 
+apk add gtk+3.0-dev clang 
 clang stopwatch.c `pkg-config --cflags --libs gtk+-3.0` -o stopwatch 
 */
 
