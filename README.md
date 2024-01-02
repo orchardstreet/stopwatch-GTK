@@ -6,7 +6,7 @@ There is an upper limit on how long the program will run, which is 3,215 years.
 
 # To compile
 This short program is only for modern Linux distributions.
-## Debian-based GNU/Linux
+## Debian or Debian-based GNU/Linux
 ```
 apt install libgtk-3-dev make clang git pkg-config
 git clone https://github.com/orchardstreet/stopwatch-GTK
