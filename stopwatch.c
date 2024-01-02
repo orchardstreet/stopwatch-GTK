@@ -1,7 +1,5 @@
 /* stopwatch.c, a GUI stopwatch in C 
 
-Copyright (C) 2023 by William Lupinacci <will.lupinacci@gmail.com>
-
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
 
