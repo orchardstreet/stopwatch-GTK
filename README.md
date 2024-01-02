@@ -6,14 +6,14 @@ This small GTK 3 program works well for keeping track of time for submitting tim
 This short program is only for modern Linux distributions.
 ## Debian-based GNU/Linux
 ```
-apt install libgtk-3-dev make clang git
+apt install libgtk-3-dev make clang git pkg-config
 git clone https://github.com/orchardstreet/stopwatch-GTK
 cd stopwatch-GTK
 make
 ```
 ## Alpine Linux
 ```
-apk add gtk+3.0-dev clang make git
+apk add gtk+3.0-dev clang make git pkgconfig
 git clone https://github.com/orchardstreet/stopwatch-GTK
 cd stopwatch-GTK
 make
